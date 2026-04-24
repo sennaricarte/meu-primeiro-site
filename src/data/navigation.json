@@ -1,0 +1,14 @@
+{
+  "header": [
+    {
+      "label": "Início",
+      "href": "/"
+    }
+  ],
+  "footer": [
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ]
+}
