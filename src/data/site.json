@@ -1,0 +1,15 @@
+{
+  "identity": {
+    "siteName": "meu-primeiro-site",
+    "siteTitle": "meu-primeiro-site",
+    "description": "",
+    "favicon": "",
+    "logo": "",
+    "siteUrl": ""
+  },
+  "theme": {
+    "primaryColor": "#0ea5e9",
+    "secondaryColor": "#0f172a",
+    "fontFamily": "Inter"
+  }
+}
