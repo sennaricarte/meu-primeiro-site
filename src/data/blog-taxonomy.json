@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "id": "cat-1777076346474-i1vbojt",
+      "name": "Teste",
+      "slug": "teste",
+      "description": "Testes",
+      "parentId": "",
+      "seoTitle": "testeEstá é uma categoria teste",
+      "seoDescription": "",
+      "focusKeyword": "Teste"
+    }
+  ],
+  "tags": []
+}
